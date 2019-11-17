@@ -9,6 +9,7 @@ It currently includes,
 2. Detecting Cyclone using Convolution Neural Network (CNN).
 3. Time series prediction of Monsoon by RNN and SARIMA model.
 4. Classify the month by looking at the Outgoing Longwave Radiation (OLR) map.
+5. Retrieving winds from the vorticity and divergence fields
 
 Some of the problems currently under development include,
 1. Time series forecasting of MJO indexes.
